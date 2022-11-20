@@ -1,0 +1,24 @@
+body{
+    background-image: url(troca\ fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: #a0a0a0;
+}
+
+h3{
+    text-align: center;
+    background-color: #a0a0a0;
+}
+
+
+h4{
+    background-color: #a0a0a0;
+}
+h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
